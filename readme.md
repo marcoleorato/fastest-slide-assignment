@@ -12,9 +12,6 @@ It wouldn't be strictly needed but two external packages are used for completene
 The script can be run directly, and it will read the input in the `input` file.  
 It is possible to also use the `-f FILE` option to use a specific file and the `-a` flag to use an alternative way (top-down) to calculate the path. This is explained later.
 
-### The solution
-
-
 
 ### Initial assumptions
 
